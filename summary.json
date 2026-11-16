@@ -1,0 +1,31 @@
+{
+  "description": "复杂大气环境下激光弱目标回波 Monte Carlo 仿真示例",
+  "realizations_per_scenario": 300,
+  "scenario_count": 72,
+  "representative_scene": {
+    "scenario_id": 47,
+    "range_km": 8.0,
+    "visibility_km": 10.0,
+    "turbulence": "moderate",
+    "turbulence_sigma_ln": 0.3,
+    "scintillation_index": 0.09417428370521042,
+    "extinction_per_km": 0.28126090956284755,
+    "one_way_transmittance": 0.10539002608755998,
+    "mean_received_energy_j": 1.2429443812818683e-19,
+    "mean_signal_electrons": 0.44968569596929947,
+    "background_electrons": 832.6168390431552,
+    "snr_theory_db": -46.13644139413745,
+    "snr_mc_mean_db": -46.15623114567416,
+    "snr_mc_p10_db": -49.55946538824539,
+    "snr_mc_p90_db": -43.70365259440145,
+    "detection_probability_at_pfa_1pct": 0.013333333333333334
+  },
+  "model_notes": [
+    "大气衰减采用 Beer-Lambert 与 Koschmieder 能见度近似。",
+    "湍流采用均值为 1 的对数正态随机透射因子。",
+    "目标采用小型朗伯漫反射平面目标。",
+    "波形同时包含信号相关散粒噪声、背景光、暗计数和读出噪声。",
+    "SNR 由归一化匹配滤波后的信号对比度给出。",
+    "本数据是物理模型仿真结果，不代表实际外场实验数据。"
+  ]
+}

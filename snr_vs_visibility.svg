@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="540" viewBox="0 0 920 540">
+<rect width="920" height="540" fill="white"/>
+<text x="460.0" y="34" text-anchor="middle" font-family="Arial,Microsoft YaHei,sans-serif" font-size="22" font-weight="700">5 km 距离下 SNR 随能见度与湍流变化</text>
+<line x1="90.00" y1="70" x2="90.00" y2="465" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="90" y1="465.00" x2="885" y2="465.00" stroke="#e6e8eb" stroke-width="1"/>
+<text x="90.00" y="489" text-anchor="middle" font-family="Arial,Microsoft YaHei,sans-serif" font-size="12" fill="#444">2.0</text>
+<text x="78" y="469.00" text-anchor="end" font-family="Arial,Microsoft YaHei,sans-serif" font-size="12" fill="#444">-86.2</text>
+<line x1="249.00" y1="70" x2="249.00" y2="465" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="90" y1="386.00" x2="885" y2="386.00" stroke="#e6e8eb" stroke-width="1"/>
+<text x="249.00" y="489" text-anchor="middle" font-family="Arial,Microsoft YaHei,sans-serif" font-size="12" fill="#444">5.6</text>
+<text x="78" y="390.00" text-anchor="end" font-family="Arial,Microsoft YaHei,sans-serif" font-size="12" fill="#444">-68.3</text>
+<line x1="408.00" y1="70" x2="408.00" y2="465" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="90" y1="307.00" x2="885" y2="307.00" stroke="#e6e8eb" stroke-width="1"/>
+<text x="408.00" y="489" text-anchor="middle" font-family="Arial,Microsoft YaHei,sans-serif" font-size="12" fill="#444">9.2</text>
+<text x="78" y="311.00" text-anchor="end" font-family="Arial,Microsoft YaHei,sans-serif" font-size="12" fill="#444">-50.4</text>
+<line x1="567.00" y1="70" x2="567.00" y2="465" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="90" y1="228.00" x2="885" y2="228.00" stroke="#e6e8eb" stroke-width="1"/>
+<text x="567.00" y="489" text-anchor="middle" font-family="Arial,Microsoft YaHei,sans-serif" font-size="12" fill="#444">12.8</text>
+<text x="78" y="232.00" text-anchor="end" font-family="Arial,Microsoft YaHei,sans-serif" font-size="12" fill="#444">-32.5</text>
+<line x1="726.00" y1="70" x2="726.00" y2="465" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="90" y1="149.00" x2="885" y2="149.00" stroke="#e6e8eb" stroke-width="1"/>
+<text x="726.00" y="489" text-anchor="middle" font-family="Arial,Microsoft YaHei,sans-serif" font-size="12" fill="#444">16.4</text>
+<text x="78" y="153.00" text-anchor="end" font-family="Arial,Microsoft YaHei,sans-serif" font-size="12" fill="#444">-14.6</text>
+<line x1="885.00" y1="70" x2="885.00" y2="465" stroke="#e6e8eb" stroke-width="1"/>
+<line x1="90" y1="70.00" x2="885" y2="70.00" stroke="#e6e8eb" stroke-width="1"/>
+<text x="885.00" y="489" text-anchor="middle" font-family="Arial,Microsoft YaHei,sans-serif" font-size="12" fill="#444">20.0</text>
+<text x="78" y="74.00" text-anchor="end" font-family="Arial,Microsoft YaHei,sans-serif" font-size="12" fill="#444">3.3</text>
+<line x1="90" y1="70" x2="90" y2="465" stroke="#333" stroke-width="1.5"/>
+<line x1="90" y1="465" x2="885" y2="465" stroke="#333" stroke-width="1.5"/>
+<text x="487.5" y="516" text-anchor="middle" font-family="Arial,Microsoft YaHei,sans-serif" font-size="15">能见度 V / km</text>
+<text transform="translate(24 267.5) rotate(-90)" text-anchor="middle" font-family="Arial,Microsoft YaHei,sans-serif" font-size="15">匹配滤波 SNR / dB（显示下限 -80 dB）</text>
+<polyline points="90.00,437.76 222.50,260.87 443.33,150.21 885.00,97.24" fill="none" stroke="#0b6e99" stroke-width="2.5"/>
+<circle cx="90.00" cy="437.76" r="4" fill="#0b6e99"/>
+<circle cx="222.50" cy="260.87" r="4" fill="#0b6e99"/>
+<circle cx="443.33" cy="150.21" r="4" fill="#0b6e99"/>
+<circle cx="885.00" cy="97.24" r="4" fill="#0b6e99"/>
+<line x1="108" y1="86" x2="138" y2="86" stroke="#0b6e99" stroke-width="4"/>
+<text x="146" y="91" font-family="Arial,Microsoft YaHei,sans-serif" font-size="13" fill="#333">湍流：weak</text>
+<polyline points="90.00,437.76 222.50,261.52 443.33,152.17 885.00,98.97" fill="none" stroke="#d1495b" stroke-width="2.5"/>
+<circle cx="90.00" cy="437.76" r="4" fill="#d1495b"/>
+<circle cx="222.50" cy="261.52" r="4" fill="#d1495b"/>
+<circle cx="443.33" cy="152.17" r="4" fill="#d1495b"/>
+<circle cx="885.00" cy="98.97" r="4" fill="#d1495b"/>
+<line x1="108" y1="110" x2="138" y2="110" stroke="#d1495b" stroke-width="4"/>
+<text x="146" y="115" font-family="Arial,Microsoft YaHei,sans-serif" font-size="13" fill="#333">湍流：moderate</text>
+<polyline points="90.00,437.76 222.50,260.39 443.33,152.77 885.00,97.87" fill="none" stroke="#2a9d8f" stroke-width="2.5"/>
+<circle cx="90.00" cy="437.76" r="4" fill="#2a9d8f"/>
+<circle cx="222.50" cy="260.39" r="4" fill="#2a9d8f"/>
+<circle cx="443.33" cy="152.77" r="4" fill="#2a9d8f"/>
+<circle cx="885.00" cy="97.87" r="4" fill="#2a9d8f"/>
+<line x1="108" y1="134" x2="138" y2="134" stroke="#2a9d8f" stroke-width="4"/>
+<text x="146" y="139" font-family="Arial,Microsoft YaHei,sans-serif" font-size="13" fill="#333">湍流：strong</text>
+</svg>
